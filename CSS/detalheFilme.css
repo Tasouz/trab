@@ -1,0 +1,72 @@
+
+img.navbar-brand {
+    width: auto;
+    height: 8vh;
+    
+}
+i.bi-search{
+    font-size: 1.3rem;
+    color: #4C11EA !important;
+    margin: 0px 15px;
+}
+
+
+.cabecalho{
+    background-color: rgb(20, 18, 18);
+    height: 10vh;
+    padding: auto;
+}
+
+.filmes{
+    padding: 20px !important;
+}
+
+.cabecalho{
+    background-color: rgb(32, 32, 32);
+}
+
+.titulo {
+    padding: 15px;
+    color: #4C11EA;
+    text-align: center;
+}
+
+.filme {
+    background-color: black;
+}
+
+.body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: justify;
+}
+
+.divImgFilme{
+    width: auto;
+}
+.divInfoFilme{
+    color: aliceblue;
+}
+.img {
+    margin-right: 15px;
+    margin-bottom: 25px;
+    float: left;
+    max-width: 100%;
+}
+
+i {
+    color: #4C11EA;
+    width: 120px;
+    margin-bottom: 15px;
+}
+
+.footer_area{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.footer{ 
+    padding: 20px;
+    background: rgb(32, 32, 32);
+    color: white;
+}
