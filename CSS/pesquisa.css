@@ -1,0 +1,59 @@
+.cabecalho{
+    padding: 20px !important;
+    background-color: rgb(32, 32, 32);
+    height: 90px;
+}
+
+img.navbar-brand {
+    height: 8vh;
+}
+i.bi-search{
+    font-size:large;
+    color: #4C11EA;
+}
+/* botão de pesquisa*/
+
+button.btn-outline-success{
+    border-color: transparent;
+}
+button.btn-outline-success:hover{
+    background-color: transparent;
+    border-color: transparent;
+}
+button.btn-outline-success:hover i{
+
+    color: aliceblue;
+}
+
+.main{
+    background-color: rgb(19, 19, 19) !important;
+}
+
+main h1{
+    color: #4C11EA;
+    text-align: center;
+    padding: 15px;
+}
+
+div.card-corpo{
+ background-color: rgb(17, 17, 17);
+ color: aliceblue;
+ border-color: transparent;
+}
+
+i.redes {
+    color: #4C11EA;
+    font-size: 2rem;
+    margin: 15px;
+}
+
+.footer_area{
+    margin-top: 10px;
+    text-align: center;
+}
+
+.footer{ 
+    padding: 10px;
+    background: rgb(32, 32, 32);
+    color: white;
+}
