@@ -57,3 +57,21 @@ i.redes {
     background: rgb(32, 32, 32);
     color: white;
 }
+
+@media (max-width: 576px){
+    .cabecalho{
+        height: 150px;
+        align-items: center;
+    }
+    .cabecalho img{
+        text-align: center !important;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 5px;
+    }
+    .cabecalho input{
+        width: 43vh;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
